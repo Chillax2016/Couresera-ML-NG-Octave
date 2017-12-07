@@ -51,6 +51,7 @@ sum求和
 sum(A,1)每一列的求和
 sum(A,1)每一列的求和
 sum(A,3)返回矩阵
+sum(sum(A,1),2)矩阵的行列式
 
 prod乘积
 floor向下四舍五入
