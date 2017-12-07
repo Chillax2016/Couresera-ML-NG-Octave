@@ -1,4 +1,5 @@
 # Couresera-ML-NG-Octave
 
-v + ones(length(v), 1)  
-% v + 1  % same
+this is the notes when I was learing ML.
+
+I write down the details in case I forget someday.
